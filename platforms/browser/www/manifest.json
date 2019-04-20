@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "OnlineShopApp",
+  "short_name": "OnlineShopApp",
+  "version": "io.cordova.hellocordova",
+  "description": "我们的在线商城APP！",
+  "author": "silmeria9@qq.com",
+  "icons": [],
+  "start_url": "index.html"
+}
